@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @leddi-l
+- 👋 Hi, I’m Naledi Letsebe (@leddi-l)
 - 👀 I’m interested in cloud architecture, full-stack development, and multi-cloud solutions.
 - 🌱 I’m currently learning cloud computing with a focus on AWS, Azure, and Google Cloud.
 - 💞️ I’m looking to collaborate on projects involving cloud infrastructure, DevOps, and scalable web applications.
